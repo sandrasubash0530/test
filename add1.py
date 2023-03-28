@@ -1,6 +1,6 @@
 a=22
 b=2
 
-d=55
+d=a-b
 c=a+b
 print(a)
